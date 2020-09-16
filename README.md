@@ -1,6 +1,6 @@
 # Hesk-RTL
 RTL (Right to Left) modification for Hesk Helpdesk ticket system
-RTL support to Hesk 3.1.2
+RTL support to Hesk 3.1.2 (The files will update with every new Hesk release)
 For Hebrew and Arabic lnaguages.
 
 # Usage
